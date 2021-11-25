@@ -1,0 +1,15 @@
+.user-style{
+    border: 5px solid black;
+    border-radius:10px;
+    box-shadow: 10px 10px 5px  gray;
+    display: flex;
+    /* width: 60%; */
+    padding: 10px;
+    margin: 20px;
+}
+.user-info{
+    margin-left: 15px;
+}
+.user-img{
+    padding: 20px 0px;
+}

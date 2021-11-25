@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+}
+.User-state{
+  width: 70%;
+  background-color:aquamarine;
+}
+.team-state{
+  background-color:gray;
+  width: 40%;
 }
 
 .App-logo {
